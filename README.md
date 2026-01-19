@@ -21,3 +21,5 @@ This project helped me understand how to work with external APIs in a real-world
 ## Note
 
 - Built for desktop — responsiveness not included.
+
+### Live Demo: https://areebamoosa.github.io/Weather-App/
